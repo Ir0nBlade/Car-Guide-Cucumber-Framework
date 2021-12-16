@@ -1,0 +1,393 @@
+2021-12-16 17:12:411 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 17:12:359 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 17:12:709 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 17:12:847 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 17:12:449 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 17:12:726 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 18:12:186 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 18:12:283 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 18:12:848 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 19:12:556 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 19:12:885 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 19:12:527 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 19:12:744 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 19:12:01 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (8d6c8c92e163be79a0aca3e579852bac)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 19:12:220 INFO  HomePage :39 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (8d6c8c92e163be79a0aca3e579852bac)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 19:12:372 INFO  NewAndUsedCarsSearchPage :74 - Confirming Page Navigate to NewandUsed car Page: New & UsedNew & Used Car Search - carsguide
+2021-12-16 19:12:452 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (8d6c8c92e163be79a0aca3e579852bac)] -> id: makes]
+2021-12-16 19:12:514 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (8d6c8c92e163be79a0aca3e579852bac)] -> id: models]
+2021-12-16 19:12:572 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (8d6c8c92e163be79a0aca3e579852bac)] -> id: locations]
+2021-12-16 19:12:627 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (8d6c8c92e163be79a0aca3e579852bac)] -> id: priceTo]
+2021-12-16 19:12:637 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 19:12:599 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (c6560f71b63efd095437720267764640)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 19:12:700 INFO  HomePage :39 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (c6560f71b63efd095437720267764640)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 19:12:771 INFO  NewAndUsedCarsSearchPage :74 - Confirming Page Navigate to NewandUsed car Page: New & UsedNew & Used Car Search - carsguide
+2021-12-16 19:12:858 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (c6560f71b63efd095437720267764640)] -> id: makes]
+2021-12-16 19:12:914 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (c6560f71b63efd095437720267764640)] -> id: models]
+2021-12-16 19:12:975 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (c6560f71b63efd095437720267764640)] -> id: locations]
+2021-12-16 19:12:27 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (c6560f71b63efd095437720267764640)] -> id: priceTo]
+2021-12-16 19:12:178 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 19:12:806 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 19:12:526 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (d13ee042a60e870690de2b13302ae356)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 19:12:711 INFO  HomePage :39 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (d13ee042a60e870690de2b13302ae356)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 19:12:310 INFO  NewAndUsedCarsSearchPage :74 - Confirming Page Navigate to NewandUsed car Page: New & UsedNew & Used Car Search - carsguide
+2021-12-16 19:12:409 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (d13ee042a60e870690de2b13302ae356)] -> id: makes]
+2021-12-16 19:12:525 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (d13ee042a60e870690de2b13302ae356)] -> id: models]
+2021-12-16 19:12:587 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (d13ee042a60e870690de2b13302ae356)] -> id: locations]
+2021-12-16 19:12:642 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (d13ee042a60e870690de2b13302ae356)] -> id: priceTo]
+2021-12-16 19:12:909 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 19:12:445 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (bad800062c62ca4ef8251b17aeb39b8f)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 19:12:663 INFO  HomePage :39 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (bad800062c62ca4ef8251b17aeb39b8f)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 19:12:464 INFO  NewAndUsedCarsSearchPage :74 - Confirming Page Navigate to NewandUsed car Page: New & UsedNew & Used Car Search - carsguide
+2021-12-16 19:12:573 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (bad800062c62ca4ef8251b17aeb39b8f)] -> id: makes]
+2021-12-16 19:12:641 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (bad800062c62ca4ef8251b17aeb39b8f)] -> id: models]
+2021-12-16 19:12:696 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (bad800062c62ca4ef8251b17aeb39b8f)] -> id: locations]
+2021-12-16 19:12:748 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (bad800062c62ca4ef8251b17aeb39b8f)] -> id: priceTo]
+2021-12-16 19:12:798 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 19:12:407 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (33a8eadf65885c959f77f44c741064ed)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 19:12:591 INFO  HomePage :39 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (33a8eadf65885c959f77f44c741064ed)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 19:12:817 INFO  NewAndUsedCarsSearchPage :74 - Confirming Page Navigate to NewandUsed car Page: New & UsedNew & Used Car Search - carsguide
+2021-12-16 19:12:933 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (33a8eadf65885c959f77f44c741064ed)] -> id: makes]
+2021-12-16 19:12:169 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (33a8eadf65885c959f77f44c741064ed)] -> id: models]
+2021-12-16 19:12:225 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (33a8eadf65885c959f77f44c741064ed)] -> id: locations]
+2021-12-16 19:12:278 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (33a8eadf65885c959f77f44c741064ed)] -> id: priceTo]
+2021-12-16 19:12:334 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (33a8eadf65885c959f77f44c741064ed)] -> id: search-submit]
+2021-12-16 20:12:984 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:878 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (c4f1470cabf2bb136a985b2a14b77049)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:64 INFO  HomePage :39 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (c4f1470cabf2bb136a985b2a14b77049)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:508 INFO  NewAndUsedCarsSearchPage :74 - Confirming Page Navigate to NewandUsed car Page: New & UsedNew & Used Car Search - carsguide
+2021-12-16 20:12:575 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (c4f1470cabf2bb136a985b2a14b77049)] -> id: makes]
+2021-12-16 20:12:649 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (c4f1470cabf2bb136a985b2a14b77049)] -> id: models]
+2021-12-16 20:12:706 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (c4f1470cabf2bb136a985b2a14b77049)] -> id: locations]
+2021-12-16 20:12:760 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (c4f1470cabf2bb136a985b2a14b77049)] -> id: priceTo]
+2021-12-16 20:12:795 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (c4f1470cabf2bb136a985b2a14b77049)] -> id: search-submit]
+2021-12-16 20:12:912 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  Audi30 Audi A1s for Sale under $50,000 in Sydney, NSW
+2021-12-16 20:12:362 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:190 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (1f2def0ff42da137c168cbacf99ebc2a)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:244 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:212 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:133 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (083ff8b02bccdf529b4860efc83c4d00)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:381 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (083ff8b02bccdf529b4860efc83c4d00)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:403 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:524 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (083ff8b02bccdf529b4860efc83c4d00)] -> id: makes]
+2021-12-16 20:12:694 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (083ff8b02bccdf529b4860efc83c4d00)] -> id: models]
+2021-12-16 20:12:743 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (083ff8b02bccdf529b4860efc83c4d00)] -> id: locations]
+2021-12-16 20:12:797 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (083ff8b02bccdf529b4860efc83c4d00)] -> id: priceTo]
+2021-12-16 20:12:846 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (083ff8b02bccdf529b4860efc83c4d00)] -> id: search-submit]
+2021-12-16 20:12:959 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  Ford34 Used Ford Focus for Sale under $50,000 in New England, NSW
+2021-12-16 20:12:595 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:827 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (3e5f6a2f0217dad3266ba421f50b17f5)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:417 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (3e5f6a2f0217dad3266ba421f50b17f5)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:96 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:165 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (3e5f6a2f0217dad3266ba421f50b17f5)] -> id: makes]
+2021-12-16 20:12:229 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (3e5f6a2f0217dad3266ba421f50b17f5)] -> id: models]
+2021-12-16 20:12:278 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (3e5f6a2f0217dad3266ba421f50b17f5)] -> id: locations]
+2021-12-16 20:12:327 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (3e5f6a2f0217dad3266ba421f50b17f5)] -> id: priceTo]
+2021-12-16 20:12:395 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (3e5f6a2f0217dad3266ba421f50b17f5)] -> id: search-submit]
+2021-12-16 20:12:134 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  BMW1 Used BMW 4 Series for Sale under $80,000 in Hunter, NSW
+2021-12-16 20:12:779 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:428 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (530c97a6ad17a52e746114f2a81c9007)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:865 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (530c97a6ad17a52e746114f2a81c9007)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:306 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:398 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (530c97a6ad17a52e746114f2a81c9007)] -> id: makes]
+2021-12-16 20:12:453 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (530c97a6ad17a52e746114f2a81c9007)] -> id: models]
+2021-12-16 20:12:503 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (530c97a6ad17a52e746114f2a81c9007)] -> id: locations]
+2021-12-16 20:12:552 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (530c97a6ad17a52e746114f2a81c9007)] -> id: priceTo]
+2021-12-16 20:12:604 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (530c97a6ad17a52e746114f2a81c9007)] -> id: search-submit]
+2021-12-16 20:12:872 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:994 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (d284082b7b4c03832988a86fecd5c49c)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:451 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (d284082b7b4c03832988a86fecd5c49c)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:777 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:862 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (d284082b7b4c03832988a86fecd5c49c)] -> id: makes]
+2021-12-16 20:12:931 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (d284082b7b4c03832988a86fecd5c49c)] -> id: models]
+2021-12-16 20:12:984 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (d284082b7b4c03832988a86fecd5c49c)] -> id: locations]
+2021-12-16 20:12:41 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (d284082b7b4c03832988a86fecd5c49c)] -> id: priceTo]
+2021-12-16 20:12:107 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (d284082b7b4c03832988a86fecd5c49c)] -> id: search-submit]
+2021-12-16 20:12:307 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  Nissan60 Used Nissan Qashqais for Sale under $40,000 in VIC
+2021-12-16 20:12:937 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:857 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (6ced3fff198d0b362f4005b4f0deee53)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:386 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (6ced3fff198d0b362f4005b4f0deee53)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:347 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:412 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (6ced3fff198d0b362f4005b4f0deee53)] -> id: makes]
+2021-12-16 20:12:772 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (6ced3fff198d0b362f4005b4f0deee53)] -> id: models]
+2021-12-16 20:12:822 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (6ced3fff198d0b362f4005b4f0deee53)] -> id: locations]
+2021-12-16 20:12:874 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (6ced3fff198d0b362f4005b4f0deee53)] -> id: priceTo]
+2021-12-16 20:12:940 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (6ced3fff198d0b362f4005b4f0deee53)] -> id: search-submit]
+2021-12-16 20:12:648 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:335 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (c44d01085398fbd9922a8e2f4eb7b764)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:790 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (c44d01085398fbd9922a8e2f4eb7b764)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:214 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:280 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (c44d01085398fbd9922a8e2f4eb7b764)] -> id: makes]
+2021-12-16 20:12:393 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (c44d01085398fbd9922a8e2f4eb7b764)] -> id: models]
+2021-12-16 20:12:443 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (c44d01085398fbd9922a8e2f4eb7b764)] -> id: locations]
+2021-12-16 20:12:496 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (c44d01085398fbd9922a8e2f4eb7b764)] -> id: priceTo]
+2021-12-16 20:12:556 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (c44d01085398fbd9922a8e2f4eb7b764)] -> id: search-submit]
+2021-12-16 20:12:379 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  Land Rover8 Used Land Rover Range Rover Evoques for Sale under $70,000 in Brisbane, QLD
+2021-12-16 20:12:549 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:771 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (0b22613ab0007a33a28c64c814eeccac)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:213 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (0b22613ab0007a33a28c64c814eeccac)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:394 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:519 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (0b22613ab0007a33a28c64c814eeccac)] -> id: makes]
+2021-12-16 20:12:578 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (0b22613ab0007a33a28c64c814eeccac)] -> id: models]
+2021-12-16 20:12:629 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (0b22613ab0007a33a28c64c814eeccac)] -> id: locations]
+2021-12-16 20:12:678 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (0b22613ab0007a33a28c64c814eeccac)] -> id: priceTo]
+2021-12-16 20:12:732 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (0b22613ab0007a33a28c64c814eeccac)] -> id: search-submit]
+2021-12-16 20:12:303 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  Ford34 Used Ford Focus for Sale under $50,000 in New England, NSW
+2021-12-16 20:12:951 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:380 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (b4c59fd5b5160d2cac8f78062c072aa6)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:778 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (b4c59fd5b5160d2cac8f78062c072aa6)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:836 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:898 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (b4c59fd5b5160d2cac8f78062c072aa6)] -> id: makes]
+2021-12-16 20:12:130 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (b4c59fd5b5160d2cac8f78062c072aa6)] -> id: models]
+2021-12-16 20:12:186 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (b4c59fd5b5160d2cac8f78062c072aa6)] -> id: locations]
+2021-12-16 20:12:243 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (b4c59fd5b5160d2cac8f78062c072aa6)] -> id: priceTo]
+2021-12-16 20:12:296 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (b4c59fd5b5160d2cac8f78062c072aa6)] -> id: search-submit]
+2021-12-16 20:12:789 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  BMW1 Used BMW 4 Series for Sale under $80,000 in Hunter, NSW
+2021-12-16 20:12:443 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:457 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (60dcb5999872eadd9fc18f5f75e3da80)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:941 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (60dcb5999872eadd9fc18f5f75e3da80)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:605 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:677 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (60dcb5999872eadd9fc18f5f75e3da80)] -> id: makes]
+2021-12-16 20:12:752 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (60dcb5999872eadd9fc18f5f75e3da80)] -> id: models]
+2021-12-16 20:12:826 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (60dcb5999872eadd9fc18f5f75e3da80)] -> id: locations]
+2021-12-16 20:12:874 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (60dcb5999872eadd9fc18f5f75e3da80)] -> id: priceTo]
+2021-12-16 20:12:926 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (60dcb5999872eadd9fc18f5f75e3da80)] -> id: search-submit]
+2021-12-16 20:12:128 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:900 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (ccce67ad5715743f9333b0d07c6cd1fc)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:542 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (ccce67ad5715743f9333b0d07c6cd1fc)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:574 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:650 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (ccce67ad5715743f9333b0d07c6cd1fc)] -> id: makes]
+2021-12-16 20:12:708 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (ccce67ad5715743f9333b0d07c6cd1fc)] -> id: models]
+2021-12-16 20:12:763 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (ccce67ad5715743f9333b0d07c6cd1fc)] -> id: locations]
+2021-12-16 20:12:814 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (ccce67ad5715743f9333b0d07c6cd1fc)] -> id: priceTo]
+2021-12-16 20:12:866 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (ccce67ad5715743f9333b0d07c6cd1fc)] -> id: search-submit]
+2021-12-16 20:12:432 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  Nissan60 Used Nissan Qashqais for Sale under $40,000 in VIC
+2021-12-16 20:12:71 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:359 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (68aee653699284a6e0e7428aab157f2d)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:77 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (68aee653699284a6e0e7428aab157f2d)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:280 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:347 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (68aee653699284a6e0e7428aab157f2d)] -> id: makes]
+2021-12-16 20:12:459 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (68aee653699284a6e0e7428aab157f2d)] -> id: models]
+2021-12-16 20:12:522 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (68aee653699284a6e0e7428aab157f2d)] -> id: locations]
+2021-12-16 20:12:574 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (68aee653699284a6e0e7428aab157f2d)] -> id: priceTo]
+2021-12-16 20:12:623 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (68aee653699284a6e0e7428aab157f2d)] -> id: search-submit]
+2021-12-16 20:12:282 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:848 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (121964e1e0f620ed3117bf80cfa4946c)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:310 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (121964e1e0f620ed3117bf80cfa4946c)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:595 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:681 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (121964e1e0f620ed3117bf80cfa4946c)] -> id: makes]
+2021-12-16 20:12:794 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (121964e1e0f620ed3117bf80cfa4946c)] -> id: models]
+2021-12-16 20:12:840 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (121964e1e0f620ed3117bf80cfa4946c)] -> id: locations]
+2021-12-16 20:12:890 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (121964e1e0f620ed3117bf80cfa4946c)] -> id: priceTo]
+2021-12-16 20:12:939 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (121964e1e0f620ed3117bf80cfa4946c)] -> id: search-submit]
+2021-12-16 20:12:626 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  Land Rover8 Used Land Rover Range Rover Evoques for Sale under $70,000 in Brisbane, QLD
+2021-12-16 20:12:181 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:538 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (e6c32ed2128558c40f9eeac2ca2dc71b)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:03 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (e6c32ed2128558c40f9eeac2ca2dc71b)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:375 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:479 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (e6c32ed2128558c40f9eeac2ca2dc71b)] -> id: makes]
+2021-12-16 20:12:587 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (e6c32ed2128558c40f9eeac2ca2dc71b)] -> id: models]
+2021-12-16 20:12:641 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (e6c32ed2128558c40f9eeac2ca2dc71b)] -> id: locations]
+2021-12-16 20:12:692 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (e6c32ed2128558c40f9eeac2ca2dc71b)] -> id: priceTo]
+2021-12-16 20:12:759 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (e6c32ed2128558c40f9eeac2ca2dc71b)] -> id: search-submit]
+2021-12-16 20:12:163 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  Ford34 Used Ford Focus for Sale under $50,000 in New England, NSW
+2021-12-16 20:12:839 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:365 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (08fafc8606ad1bec5d3c681f3d89f602)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:560 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (08fafc8606ad1bec5d3c681f3d89f602)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:628 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:679 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (08fafc8606ad1bec5d3c681f3d89f602)] -> id: makes]
+2021-12-16 20:12:923 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (08fafc8606ad1bec5d3c681f3d89f602)] -> id: models]
+2021-12-16 20:12:978 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (08fafc8606ad1bec5d3c681f3d89f602)] -> id: locations]
+2021-12-16 20:12:35 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (08fafc8606ad1bec5d3c681f3d89f602)] -> id: priceTo]
+2021-12-16 20:12:82 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (08fafc8606ad1bec5d3c681f3d89f602)] -> id: search-submit]
+2021-12-16 20:12:272 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  BMW1 Used BMW 4 Series for Sale under $80,000 in Hunter, NSW
+2021-12-16 20:12:921 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:413 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (94a02fee23f3bbbf54dd95e4cb4542cd)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:142 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (94a02fee23f3bbbf54dd95e4cb4542cd)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:195 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:257 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (94a02fee23f3bbbf54dd95e4cb4542cd)] -> id: makes]
+2021-12-16 20:12:372 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (94a02fee23f3bbbf54dd95e4cb4542cd)] -> id: models]
+2021-12-16 20:12:424 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (94a02fee23f3bbbf54dd95e4cb4542cd)] -> id: locations]
+2021-12-16 20:12:474 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (94a02fee23f3bbbf54dd95e4cb4542cd)] -> id: priceTo]
+2021-12-16 20:12:530 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (94a02fee23f3bbbf54dd95e4cb4542cd)] -> id: search-submit]
+2021-12-16 20:12:692 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:653 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (dbf74d295efd01ddd420e85d8e1a0935)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:896 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (dbf74d295efd01ddd420e85d8e1a0935)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:126 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:193 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (dbf74d295efd01ddd420e85d8e1a0935)] -> id: makes]
+2021-12-16 20:12:267 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (dbf74d295efd01ddd420e85d8e1a0935)] -> id: models]
+2021-12-16 20:12:317 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (dbf74d295efd01ddd420e85d8e1a0935)] -> id: locations]
+2021-12-16 20:12:365 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (dbf74d295efd01ddd420e85d8e1a0935)] -> id: priceTo]
+2021-12-16 20:12:185 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (dbf74d295efd01ddd420e85d8e1a0935)] -> id: search-submit]
+2021-12-16 20:12:252 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  Nissan51 Used Nissan Qashqais for Sale under $40,000 in Melbourne, VIC
+2021-12-16 20:12:885 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:864 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (b4e2def3c3ec203d4c052b7991d25707)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:304 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (b4e2def3c3ec203d4c052b7991d25707)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:10 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:84 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (b4e2def3c3ec203d4c052b7991d25707)] -> id: makes]
+2021-12-16 20:12:393 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (b4e2def3c3ec203d4c052b7991d25707)] -> id: models]
+2021-12-16 20:12:444 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (b4e2def3c3ec203d4c052b7991d25707)] -> id: locations]
+2021-12-16 20:12:497 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (b4e2def3c3ec203d4c052b7991d25707)] -> id: priceTo]
+2021-12-16 20:12:548 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (b4e2def3c3ec203d4c052b7991d25707)] -> id: search-submit]
+2021-12-16 20:12:301 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  Jaguar17 Used Jaguar F-Paces for Sale under $100,000 in Perth, WA
+2021-12-16 20:12:925 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 20:12:266 INFO  HomePage :34 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (07e8886dcfad7f6d9755eb75e65df182)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 20:12:880 INFO  HomePage :44 - Clicking on Search link  [[ChromeDriver: chrome on WINDOWS (07e8886dcfad7f6d9755eb75e65df182)] -> xpath: //a[contains(text(),'Search Cars')]]
+2021-12-16 20:12:336 INFO  UsedCarsPage :29 - Confirming Page Navigate to Used car Page  Used CarsUsed Cars For Sale
+2021-12-16 20:12:408 INFO  NewAndUsedCarsSearchPage :47 - Select 'Car Make' from dropdown  [[ChromeDriver: chrome on WINDOWS (07e8886dcfad7f6d9755eb75e65df182)] -> id: makes]
+2021-12-16 20:12:514 INFO  NewAndUsedCarsSearchPage :52 - Selecting 'Car Model' from dropdown  [[ChromeDriver: chrome on WINDOWS (07e8886dcfad7f6d9755eb75e65df182)] -> id: models]
+2021-12-16 20:12:565 INFO  NewAndUsedCarsSearchPage :57 - Selecting 'Location' from dropdown  [[ChromeDriver: chrome on WINDOWS (07e8886dcfad7f6d9755eb75e65df182)] -> id: locations]
+2021-12-16 20:12:615 INFO  NewAndUsedCarsSearchPage :62 - Selecting 'Maximum Price' from dropdown  [[ChromeDriver: chrome on WINDOWS (07e8886dcfad7f6d9755eb75e65df182)] -> id: priceTo]
+2021-12-16 20:12:683 INFO  NewAndUsedCarsSearchPage :67 - Clicking on 'Find my Next Car' button  [[ChromeDriver: chrome on WINDOWS (07e8886dcfad7f6d9755eb75e65df182)] -> id: search-submit]
+2021-12-16 20:12:929 INFO  SearchResultPage :28 - Verifying Car 'Make' in search result  Land Rover8 Used Land Rover Range Rover Evoques for Sale under $70,000 in Brisbane, QLD
+2021-12-16 21:12:957 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:195 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (1caba95fc7787e992b39a1186a1e6c00)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:381 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (1caba95fc7787e992b39a1186a1e6c00)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:953 INFO  FindDealerPage :28 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:583 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:991 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (5ecb57ccabc6823c0c073dbaf425365d)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:655 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (5ecb57ccabc6823c0c073dbaf425365d)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:696 INFO  FindDealerPage :28 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:347 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:188 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (195407a1cd86fb4f56265ade0136c908)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:401 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (195407a1cd86fb4f56265ade0136c908)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:690 INFO  FindDealerPage :28 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:329 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:826 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (48da71be16b8a071802bd80d823ddca5)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:09 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (48da71be16b8a071802bd80d823ddca5)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:334 INFO  FindDealerPage :28 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:979 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:217 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (78b9c0058b2639eea81cfe812e03ed76)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:426 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (78b9c0058b2639eea81cfe812e03ed76)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:25 INFO  FindDealerPage :28 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:654 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:144 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (b293c8f040594bb62ccaa1a84fcb7e8d)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:310 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (b293c8f040594bb62ccaa1a84fcb7e8d)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:619 INFO  FindDealerPage :28 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:71 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:384 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (2bb26ac31653fc99ed50fa3c84a7f807)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:212 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (2bb26ac31653fc99ed50fa3c84a7f807)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:264 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:955 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:955 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (a836dbc0e5b14333744b0582243fa919)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:140 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (a836dbc0e5b14333744b0582243fa919)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:470 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:485 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:849 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (7639818c59d36ec24208a2d96383604e)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:123 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (7639818c59d36ec24208a2d96383604e)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:447 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:340 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:647 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (58578fb6b8cb898bf42a28ca5cccb0cb)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:820 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (58578fb6b8cb898bf42a28ca5cccb0cb)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:354 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:36 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:731 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (6f35bcb5c1fa7a2b04ed26c653926315)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:927 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (6f35bcb5c1fa7a2b04ed26c653926315)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:246 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:165 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:953 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (42eafc7a2e664544f10d881d18f56a28)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:03 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (42eafc7a2e664544f10d881d18f56a28)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:51 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:799 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:121 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (702fe34a54156da751991d5bd3a81b08)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:826 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (702fe34a54156da751991d5bd3a81b08)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:875 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:570 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:543 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (a80f492c651c67251df6fbb27e4f5432)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:734 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (a80f492c651c67251df6fbb27e4f5432)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:313 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:984 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:18 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (ed4646241ed31b7b672311b85566a16c)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:196 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (ed4646241ed31b7b672311b85566a16c)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:493 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:376 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:536 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (ec74b14b645d29a70cdf03c264e6df83)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:717 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (ec74b14b645d29a70cdf03c264e6df83)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:354 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:27 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:628 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:588 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (18938afcd0703308370b75eeef3c6263)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:770 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (18938afcd0703308370b75eeef3c6263)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:380 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:69 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:838 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (dadbf8f81380b513f0cfa976bc5dd5e6)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:64 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (dadbf8f81380b513f0cfa976bc5dd5e6)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:377 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:236 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:452 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (c802f088eec256caa644432f5d317850)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:664 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (c802f088eec256caa644432f5d317850)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:942 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:373 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:381 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (995023b7e3d141757d6f4d682553cdfd)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:235 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (995023b7e3d141757d6f4d682553cdfd)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:332 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:45 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:908 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (483ffb4a329cf2d5eb31ec7303e7df89)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:85 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (483ffb4a329cf2d5eb31ec7303e7df89)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:422 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:313 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:995 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (83bff99dc6037cef21a426c7d3d3f5fe)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:49 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (83bff99dc6037cef21a426c7d3d3f5fe)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:175 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:930 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:115 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (7a455d6428f4628f2a937a7281401c8a)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:305 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (7a455d6428f4628f2a937a7281401c8a)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:177 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:872 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:798 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (57f0ae467f03424c546216839018c13f)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:36 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (57f0ae467f03424c546216839018c13f)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:989 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by
+2021-12-16 21:12:650 INFO  ManageDriver :30 - Launching Chrome Browser
+2021-12-16 21:12:740 INFO  HomePage :38 - Mouse hover on 'Buy + Sell' Tab  [[ChromeDriver: chrome on WINDOWS (d38f7958150aa7aacf2d99efd691401b)] -> xpath: //a[contains(text(),'buy + sell')]]
+2021-12-16 21:12:841 INFO  HomePage :53 - Clicking on 'Find a Dealer' link   [[ChromeDriver: chrome on WINDOWS (d38f7958150aa7aacf2d99efd691401b)] -> xpath: //a[contains(text(),'Find a Dealer')]]
+2021-12-16 21:12:868 INFO  FindDealerPage :34 - Verifying Car 'Make' in search result  Car DealersFind a Car Dealership Near You
+Showing 2547 Dealers
+powered by

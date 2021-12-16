@@ -1,0 +1,324 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "I am on Homepage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 256574100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I mouse hover on \u0027buy + sell\u0027 tab",
+            "match": {
+              "location": "Buy.iMouseHoverOnBuySellTab()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 9295917300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Find the dealers and verify the dealers are in the list",
+        "description": "",
+        "id": "find-the-dealers-and-verify;find-the-dealers-and-verify-the-dealers-are-in-the-list;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 629738500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 185405200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on \u0027Find a Dealer\u0027 link",
+            "match": {
+              "location": "FindDealers.iClickOnFindADealerLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1869594700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I navigate to \u0027Car Dealers\u0027 page",
+            "match": {
+              "location": "FindDealers.iNavigateToCarDealersPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 20050951000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should see the dealers names \"3 Point Motors Epping\" are display on page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "3 Point Motors Epping",
+                  "offset": 32
+                }
+              ],
+              "location": "FindDealers.iShouldSeeTheDealersNamesAreDisplayOnPage(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 6,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "I am on Homepage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 205662900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I mouse hover on \u0027buy + sell\u0027 tab",
+            "match": {
+              "location": "Buy.iMouseHoverOnBuySellTab()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4730254800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 14,
+        "name": "Find the dealers and verify the dealers are in the list",
+        "description": "",
+        "id": "find-the-dealers-and-verify;find-the-dealers-and-verify-the-dealers-are-in-the-list;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 629399800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 235764200,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on \u0027Find a Dealer\u0027 link",
+            "match": {
+              "location": "FindDealers.iClickOnFindADealerLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 951861700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I navigate to \u0027Car Dealers\u0027 page",
+            "match": {
+              "location": "FindDealers.iNavigateToCarDealersPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 20017537700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should see the dealers names \"4WDD Spec\" are display on page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "4WDD Spec",
+                  "offset": 32
+                }
+              ],
+              "location": "FindDealers.iShouldSeeTheDealersNamesAreDisplayOnPage(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 6,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "I am on Homepage",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 250401100,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "I mouse hover on \u0027buy + sell\u0027 tab",
+            "match": {
+              "location": "Buy.iMouseHoverOnBuySellTab()"
+            },
+            "keyword": "When "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2849845000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "Find the dealers and verify the dealers are in the list",
+        "description": "",
+        "id": "find-the-dealers-and-verify;find-the-dealers-and-verify-the-dealers-are-in-the-list;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 625870200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 1098149800,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I click on \u0027Find a Dealer\u0027 link",
+            "match": {
+              "location": "FindDealers.iClickOnFindADealerLink()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 25872100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I navigate to \u0027Car Dealers\u0027 page",
+            "match": {
+              "location": "FindDealers.iNavigateToCarDealersPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 16364211600,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I should see the dealers names \"5 Star Auto\" are display on page",
+            "match": {
+              "arguments": [
+                {
+                  "val": "5 Star Auto",
+                  "offset": 32
+                }
+              ],
+              "location": "FindDealers.iShouldSeeTheDealersNamesAreDisplayOnPage(String)"
+            },
+            "matchedColumns": [
+              0
+            ],
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 6,
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "Find the dealers and verify",
+    "description": "",
+    "id": "find-the-dealers-and-verify",
+    "keyword": "Feature",
+    "uri": "finddealers.feature"
+  }
+]
